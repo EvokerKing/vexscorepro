@@ -13,6 +13,7 @@
     "lunr": "^2.3.9"
   },
   "devDependencies": {
+    "@astrojs/node": "^9.2.2",
     "@types/lunr": "^2.3.7"
   }
 }
