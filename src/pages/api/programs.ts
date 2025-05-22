@@ -1,4 +1,4 @@
-import { key } from "../../assets/apikey.ts"
+const key = import.meta.env.KEY
 
 export const prerender = false
 

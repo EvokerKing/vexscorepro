@@ -1,4 +1,4 @@
-import { key } from "../../../assets/apikey.ts"
+const key = import.meta.env.KEY
 import lunr from "lunr";
 
 export const prerender = false
